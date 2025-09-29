@@ -1,0 +1,1 @@
+.method public setLang(Ljava/lang/String;)Lcom/my/tracker/MyTrackerParams;

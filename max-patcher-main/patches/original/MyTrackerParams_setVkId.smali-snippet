@@ -1,0 +1,1 @@
+.method public setVkId(Ljava/lang/String;)Lcom/my/tracker/MyTrackerParams;
